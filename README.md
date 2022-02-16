@@ -1,1 +1,1 @@
-# First tepo in GitHub
+# First repo in GitHub
